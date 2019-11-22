@@ -22,6 +22,7 @@ class EditingViewController: NSViewController {
     @IBAction func onAddButtonClicked(_ sender: Any) {
         people.append(Person(newId: RealmManager.GenerateNextPersonId()))
         RealmManager.persistRealmPeople(fromPeopleArray: people)
+        disableDependentButtons()
     }
     @IBAction func onDeleteButtonClicked(_ sender: Any) {
         people.remove(at: peopleTableView.selectedRow)

@@ -21,6 +21,7 @@ class DetailsViewController: NSViewController {
         customProperties.append(CustomProperty(id: String(RealmManager.GenerateNextPropertyId()), key: "Новое свойство", value: "Значение"))
         person.customProperties = customProperties
         RealmManager.updatePerson(person: person)
+        deletePropertyButton.isEnabled = false
     }
     @IBAction func onDeletePropertyClicked(_ sender: Any) {
         customProperties.remove(at: propertiesTableView.selectedRow)
