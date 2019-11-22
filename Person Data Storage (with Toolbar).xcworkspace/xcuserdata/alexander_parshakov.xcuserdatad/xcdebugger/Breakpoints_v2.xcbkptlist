@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "16CB9092-75C7-46C8-A087-DF8889CEDD91"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F444DAEF-3458-4855-93A9-DF138215AD39"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Person Data Storage (with Toolbar)/Constants and Utilities/RealmManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "persistRealmPeople(fromPeopleArray:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A140F247-E2A4-41F1-B4CF-87E083DC3995"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Person Data Storage (with Toolbar)/View Controllers/EditingViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "58A70725-BA8D-4F89-B3D4-483E0DFD4E11"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Person Data Storage (with Toolbar)/Constants and Utilities/RealmManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "retrievePeople()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9225B909-7824-4839-AA29-581F546A1215"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Person Data Storage (with Toolbar)/Constants and Utilities/RealmManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "retrievePeople()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6335EE17-A39B-4AF9-84DB-31F195D8E780"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Person Data Storage (with Toolbar)/Constants and Utilities/RealmManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "77"
+            endingLineNumber = "77"
+            landmarkName = "GenerateNextPersonId()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "279030E8-9097-4F5E-B4BA-EFE07B9D56A8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Person Data Storage (with Toolbar)/View Controllers/EditingViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "onAddButtonClicked(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AC498303-52BA-4ECD-8D73-0989D9E60274"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Person Data Storage (with Toolbar)/Model/Person.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "init(realmPerson:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "AC498303-52BA-4ECD-8D73-0989D9E60274 - 9b374857aa584b2f"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "default argument 0 of Person_Data_Storage__with_Toolbar_.Person.init(id: Swift.String, name: Swift.String, surname: Swift.String, age: Swift.String, customProperties: RealmSwift.List&lt;Person_Data_Storage__with_Toolbar_.RealmCustomProperty&gt;) -&gt; Person_Data_Storage__with_Toolbar_.Person"
+                  moduleName = "Person Data Storage (with Toolbar)"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexander_parshakov/Desktop/Xcode%20Projects/Person%20Data%20Storage%20(with%20Toolbar)/Person%20Data%20Storage%20(with%20Toolbar)/Model/Person.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "AC498303-52BA-4ECD-8D73-0989D9E60274 - 4f783e64e1971928"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "default argument 1 of Person_Data_Storage__with_Toolbar_.Person.init(id: Swift.String, name: Swift.String, surname: Swift.String, age: Swift.String, customProperties: RealmSwift.List&lt;Person_Data_Storage__with_Toolbar_.RealmCustomProperty&gt;) -&gt; Person_Data_Storage__with_Toolbar_.Person"
+                  moduleName = "Person Data Storage (with Toolbar)"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexander_parshakov/Desktop/Xcode%20Projects/Person%20Data%20Storage%20(with%20Toolbar)/Person%20Data%20Storage%20(with%20Toolbar)/Model/Person.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "AC498303-52BA-4ECD-8D73-0989D9E60274 - 20baec7519d3ef29"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "default argument 2 of Person_Data_Storage__with_Toolbar_.Person.init(id: Swift.String, name: Swift.String, surname: Swift.String, age: Swift.String, customProperties: RealmSwift.List&lt;Person_Data_Storage__with_Toolbar_.RealmCustomProperty&gt;) -&gt; Person_Data_Storage__with_Toolbar_.Person"
+                  moduleName = "Person Data Storage (with Toolbar)"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexander_parshakov/Desktop/Xcode%20Projects/Person%20Data%20Storage%20(with%20Toolbar)/Person%20Data%20Storage%20(with%20Toolbar)/Model/Person.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "AC498303-52BA-4ECD-8D73-0989D9E60274 - 94fbd20a510ebd2a"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "default argument 3 of Person_Data_Storage__with_Toolbar_.Person.init(id: Swift.String, name: Swift.String, surname: Swift.String, age: Swift.String, customProperties: RealmSwift.List&lt;Person_Data_Storage__with_Toolbar_.RealmCustomProperty&gt;) -&gt; Person_Data_Storage__with_Toolbar_.Person"
+                  moduleName = "Person Data Storage (with Toolbar)"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexander_parshakov/Desktop/Xcode%20Projects/Person%20Data%20Storage%20(with%20Toolbar)/Person%20Data%20Storage%20(with%20Toolbar)/Model/Person.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "AC498303-52BA-4ECD-8D73-0989D9E60274 - 483c801a8945032b"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "default argument 4 of Person_Data_Storage__with_Toolbar_.Person.init(id: Swift.String, name: Swift.String, surname: Swift.String, age: Swift.String, customProperties: RealmSwift.List&lt;Person_Data_Storage__with_Toolbar_.RealmCustomProperty&gt;) -&gt; Person_Data_Storage__with_Toolbar_.Person"
+                  moduleName = "Person Data Storage (with Toolbar)"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexander_parshakov/Desktop/Xcode%20Projects/Person%20Data%20Storage%20(with%20Toolbar)/Person%20Data%20Storage%20(with%20Toolbar)/Model/Person.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "11">
+               </Location>
+               <Location
+                  uuid = "AC498303-52BA-4ECD-8D73-0989D9E60274 - 60bc39a306532ba"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Person_Data_Storage__with_Toolbar_.Person.__allocating_init(id: Swift.String, name: Swift.String, surname: Swift.String, age: Swift.String, customProperties: RealmSwift.List&lt;Person_Data_Storage__with_Toolbar_.RealmCustomProperty&gt;) -&gt; Person_Data_Storage__with_Toolbar_.Person"
+                  moduleName = "Person Data Storage (with Toolbar)"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexander_parshakov/Desktop/Xcode%20Projects/Person%20Data%20Storage%20(with%20Toolbar)/Person%20Data%20Storage%20(with%20Toolbar)/Model/Person.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "109">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0E062BEC-BECC-41A0-AA20-7C98AC0EF831"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Person Data Storage (with Toolbar)/Model/RealmPerson.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "init(person:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ACD908C0-DCA7-4278-8628-78545F57493C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Person Data Storage (with Toolbar)/Model/Person.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "init(newId:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F81FFE5B-4BEB-4EF2-8965-5420152CD8AB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Person Data Storage (with Toolbar)/View Controllers/SidebarViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "OnViewingButtonClicked(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "974AAF44-F5EF-4A5C-BCDF-D628782AD49B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Person Data Storage (with Toolbar)/View Controllers/EditingViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "74"
+            endingLineNumber = "74"
+            landmarkName = "tableViewSelectionDidChange(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AE1A24E3-3F3F-4514-B99D-E6215670B840"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Person Data Storage (with Toolbar)/View Controllers/EditingViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "70"
+            endingLineNumber = "70"
+            landmarkName = "tableViewSelectionDidChange(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B23B18BB-BA8C-47E8-BF37-BCC04F9682DA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Person Data Storage (with Toolbar)/Model/Person.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "Person"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "24C88E1F-809C-49CF-9D99-1F426A04A0A1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Person Data Storage (with Toolbar)/Constants and Utilities/RealmManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
+            landmarkName = "updatePerson(person:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AC14AC83-AA68-4FC7-9498-5CF9423AD9F3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Person Data Storage (with Toolbar)/View Controllers/DetailsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "onAddPropertyClicked(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F6C14B4B-53AF-48D6-B26C-1E222C4FA896"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Person Data Storage (with Toolbar)/View Controllers/DetailsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "onEndEditingKey(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DA6FDCBA-B10F-4723-98AB-38983E9655E3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Person Data Storage (with Toolbar)/View Controllers/DetailsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "onAddPropertyClicked(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1ABD99E2-BEB3-499B-A007-68CE42DB18FF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Person Data Storage (with Toolbar)/Constants and Utilities/RealmManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "69"
+            endingLineNumber = "69"
+            landmarkName = "updatePerson(person:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "44D9B0A8-E30B-4C9E-8519-AD1D4988EE3E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Person Data Storage (with Toolbar)/View Controllers/DetailsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "onDeletePropertyClicked(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0A06B500-C27B-47FD-A0BA-96372CA1F3E3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Person Data Storage (with Toolbar)/View Controllers/DetailsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "88"
+            endingLineNumber = "88"
+            landmarkName = "controlTextDidEndEditing(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
