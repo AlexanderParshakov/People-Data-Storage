@@ -35,6 +35,7 @@ class SignInViewController: NSViewController {
         setupSignInButton()
         stylizeTextField(named: loginTextField)
         stylizeTextField(named: passwordTextField)
+        view.window?.standardWindowButton(NSWindow.ButtonType.zoomButton)?.isHidden = true
     }
     override func viewDidAppear() {
         super.viewDidAppear()
