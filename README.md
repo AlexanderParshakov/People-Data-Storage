@@ -1,21 +1,26 @@
 # MacOS People Data Storage
+This app allows to keep whatever number of properties about people. Properties are appendable, and user can delete, add, and edit them the way s/he wants it. 
 
-
-## Вход в приложение
-Для входа используется заранее подготовленные логин и пароль. Для имитации проверки данных используется таймер. Во время проверки отображается прогресс-бар. Если данные не прошли проверку, появляется соответствующее сообщение. Если прошли - происходит переход к рабочей панели.
+## Signing in the app
+* In signing section, the correct login and password are prepared in code beforehand. 
+* A progress bar imitates an authorization process with the help of timer. 
+* If the data input was not correct, a user is notified with a corresponding message. If correct, the view switches to the dashboard.
 
 <img src="Images/Signing in.png" width= 400> 
 
-## Вкладка "Просмотр данных"
-Данные просматриваются во вкладке "Просмотр". Нажатие на строку таблицы показывает произвольные свойства, добавленные для конкретного человека. Двойной клик совершает переход во вкладку редактирования, где можно перейти к окну редактирования выбранного человека.
+## Viewing the data
+The data can be view in the tab named "Просмотр". 
+* Clicking a table row will show the arbitrary properties that a user added for a specific person. 
+* Double click lets the user move to the Edit Tab where it is possible to switch to editing a particular person.
 <img src="Images/Viewing.png" width= 600> 
 
-## Вкладка "Редактирование данных"
-Данные добавляются, редактируются и удаляются во вкладке "Редактирование":
+## Editing the data
+The data can be added, edited, and deleted in the tab named "Редактирование":
 <img src="Images/Pre-editing.png" width= 600> 
 
-Двойное нажатие на строку или выбор строки в таблице и последующее нажатие кнопки "Редактировать" позволяют перейти к окну редактирования данных для конкретного человека. В данном окне можно добавлять произвольные атрибуты, редактируя ячейки с ними с помощью привычного нажатия и задержки курсора.
+* Double click on a row or a selection followed by clicking the Button named ""Редактировать" lets the user switch to editing data of a particular person.
+* In this window, it is possible to add arbitrary attributes, editing cells that contain them with the help of click-and-wait maneuvre.
 <img src="Images/Editing.png" width= 600> 
 
-## Вкладка "О программе"
+## About the program
 <img src="Images/Program Info.png" width= 600> 
